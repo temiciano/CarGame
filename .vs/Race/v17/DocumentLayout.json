@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Documents\\Proyecto C#\\Race\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0D3854-F7FC-4948-B21F-00614222A173}|Race\\Race.csproj|c:\\users\\diego\\documents\\proyecto c#\\race\\race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0D3854-F7FC-4948-B21F-00614222A173}|Race\\Race.csproj|solutionrelative:race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Documents\\Proyecto C#\\Race\\Race\\Program.cs",
+              "RelativeDocumentMoniker": "Race\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\Documents\\Proyecto C#\\Race\\Race\\Program.cs",
+              "RelativeToolTip": "Race\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:18:52.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
